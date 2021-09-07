@@ -1,0 +1,37 @@
+.blockfont {
+    font-size: 17px;
+}
+.table-section {
+    background-color: #F8F9FA;
+    padding: 100px 0 50px 0;
+}
+.caption-color{
+    color: #298969;
+}
+.sari1{
+    background-color: #C5D7F2;
+}
+.sari7{
+    background-color: #ECEDEE;
+}
+.sari8{
+    background-color: #CFE2FF;
+}
+.sari9{
+    background-color: #C7DBD2;
+}
+.fontsize{
+    font-size: 14px;
+}
+.img-text{
+    font-size: 14px;
+}
+.img-size{
+    min-width: 100%;
+}
+.stretched-section{
+    background-color: #F8F9FA;
+}
+.stretched-text{
+    font-size: 14px;
+}
